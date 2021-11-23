@@ -16,14 +16,12 @@ To be part of a progressive organization which gives me scope to enhance both my
 
 Academic Profile
 
-COURSE	COLLEGE/SCHOOL	BOARD/UNIVERISTY	PERCENTAGE	YEAR OF PASSING
-B.Tech
-[Electronics and Communication Engineering]	Raghu Engineering college, Vizianagaram	JNTU-Kakinada,
-A.P	61.42	2018
-Intermediate
-[MPC]	Narayana Junior College, Visakhapatnam	A.P Intermediate board, A.P	84%	2012-2014
-Secondary School Education	Pollocks School, Visakhapatnam.
-	State Board, A.P	8.0 CGPA	2012
+Electronics and Communication Engineering | Raghu Engineering college, Vizianagaram, JNTU-Kakinada, A.P	
+2014-2018, Percentage - 61.42%
+Intermediate [MPC] | Narayana Junior College, Visakhapatnam Intermediate board, A.P
+2012-2014, Percentage - 84% 
+Secondary School Education | Pollocks School, Visakhapatnam, State Board, A.P 
+2012, 8.0 CGPA
 
 Software Skill Set
 
