@@ -18,8 +18,10 @@ Academic Profile
 
 •	Electronics and Communication Engineering | Raghu Engineering college, Vizianagaram, JNTU-Kakinada, A.P	
 	2014-2018, Percentage - 61.42%
+	
 •	Intermediate [MPC] | Narayana Junior College, Visakhapatnam Intermediate board, A.P
 	2012-2014, Percentage - 84% 
+	
 •	Secondary School Education | Pollocks School, Visakhapatnam, State Board, A.P 
 	2012, 8.0 CGPA
 
