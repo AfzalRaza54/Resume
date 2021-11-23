@@ -5,10 +5,6 @@ You can use the [editor on GitHub](https://github.com/AfzalRaza54/Resume/edit/gh
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 RESUME
 Afzal Raza Mohammed
 E-mail: razaafzal.afzal4@gmail.com                                                                            Mobile : + 91- 9440727368
